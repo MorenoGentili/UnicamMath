@@ -2,7 +2,7 @@
 Dati i cateti, calcola l'ipotenusa e gli angoli interni (in gradi) di un triangolo rettangolo
 
 ## Comportamento desiderato (specifica del programma)
-1. Il programma chiede all'utente di inserire la lunghezza del primo cateto e poi quella del secondo cateto (devono essere supportati i decimali);
+1. Il programma chiede all'utente di inserire la lunghezza del primo cateto e poi quella del secondo cateto (l'utente deve poter inserire un numero intero o un numero con la virgola);
 2. Poi, deve calcolare la lunghezza dell'ipotenusa usando i metodi della classe `Math` nel namespace System, documentata qui: [https://msdn.microsoft.com/it-it/library/system.math(v=vs.110).aspx](https://msdn.microsoft.com/it-it/library/system.math(v=vs.110).aspx))
 3. Usando altri metodi della stessa classe `Math`, calcolerà anche gli angoli interni del triangolo rettangolo;
 4. Infine, il programma stamperà la lunghezza dell'ipotenuta e dei tre angoli interni (quindi compreso l'angolo retto, per completezza) espressi in gradi;
